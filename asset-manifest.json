@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Azedize/Projet-React.git/static/css/main.4f1aac7c.css",
-    "main.js": "/Azedize/Projet-React.git/static/js/main.b5df684c.js",
-    "static/media/img1.jpg": "/Azedize/Projet-React.git/static/media/img1.48c7bd26c0a4deb269d7.jpg",
-    "static/media/primeicons.svg": "/Azedize/Projet-React.git/static/media/primeicons.e1441b135b3ca9ad643c.svg",
-    "static/media/Inter-italic.var.woff2?v=3.19": "/Azedize/Projet-React.git/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
-    "static/media/Inter-roman.var.woff2?v=3.19": "/Azedize/Projet-React.git/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
-    "static/media/primeicons.eot": "/Azedize/Projet-React.git/static/media/primeicons.d44157bdfa026dc877af.eot",
-    "static/media/primeicons.woff": "/Azedize/Projet-React.git/static/media/primeicons.10d3152104f2208ac82a.woff",
-    "static/media/primeicons.ttf": "/Azedize/Projet-React.git/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
-    "static/media/primeicons.woff2": "/Azedize/Projet-React.git/static/media/primeicons.78172950b335ccdb94e2.woff2",
-    "index.html": "/Azedize/Projet-React.git/index.html",
-    "main.4f1aac7c.css.map": "/Azedize/Projet-React.git/static/css/main.4f1aac7c.css.map",
-    "main.b5df684c.js.map": "/Azedize/Projet-React.git/static/js/main.b5df684c.js.map"
+    "main.css": "/Projet-React/static/css/main.c4871e05.css",
+    "main.js": "/Projet-React/static/js/main.b5df684c.js",
+    "static/media/img1.jpg": "/Projet-React/static/media/img1.48c7bd26c0a4deb269d7.jpg",
+    "static/media/primeicons.svg": "/Projet-React/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/Projet-React/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/Projet-React/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/primeicons.eot": "/Projet-React/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/Projet-React/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/Projet-React/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/Projet-React/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/Projet-React/index.html",
+    "main.c4871e05.css.map": "/Projet-React/static/css/main.c4871e05.css.map",
+    "main.b5df684c.js.map": "/Projet-React/static/js/main.b5df684c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f1aac7c.css",
+    "static/css/main.c4871e05.css",
     "static/js/main.b5df684c.js"
   ]
 }
