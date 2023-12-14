@@ -1,0 +1,206 @@
+@media(max-width:576px) {
+    .contain{
+        width: 540px;
+    } 
+    .parentone {
+        display: block;
+
+    }
+    .PartieForm{
+        width: 100%;
+        height: auto;
+    }
+    .cardf{
+        width: 97% !important;
+        margin:15px;
+        transform: translateY(-10px);
+        background-color: white;
+    }
+    .Slider{
+    padding: 10px;
+    top: 72px;
+    border-radius: 0;
+    overflow: hidden;
+    overflow-x: auto;
+
+
+    }
+    .formSearch {
+        padding: 10px;
+        display: block;
+    }
+
+
+    .inputSearch {
+        margin: 10px auto;
+
+    }
+
+
+    .S_Iteam {
+        padding: 10px;
+        white-space: nowrap;
+        font-weight: bold;
+        margin: 20px auto;
+        text-overflow: ellipsis;
+    }
+    .corusol10{
+    width: 100% ;
+    display: block;
+    }
+}
+
+@media(min-width:576px) {
+    .contain{
+        width: 540px;
+    } 
+    .cardf{
+        width: 46% !important;
+    }
+    .Slider{
+    padding: 10px;
+    top: 72px;
+    }
+    .inputSearch {
+        width: 30% !important;
+    
+    }
+    .formSearch {
+        padding: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media(min-width:768px) {
+        .contain{
+        width: 720px;
+    } 
+    .cardf{
+        width: 46% !important;
+    }
+}
+@media(min-width:992px) {
+        .contain{
+        width: 960px;
+    } 
+    .cardf{
+        width: 30% !important;
+
+    }
+
+}
+@media(max-width:992px) {
+        .custom-form{
+            width: 100%;
+        }
+
+        .formtwo{
+        background-image: 
+        linear-gradient(rgb(255, 255, 255, 0.7) 0% , rgb(255, 255, 255, 0.7) 100%),
+        url('../public/img1.jpg') !important ;
+        }
+        .form-control-t input{
+        width: 100%;
+        }
+    .corusol2{
+        width: 80% ;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 5px auto ;
+ 
+    }
+    .corusol3{
+        margin-left: 30px;
+    }
+    .corusol4{
+        width: 33,33%;
+        margin: 5px  auto;
+        font-weight: bold;
+        text-align: center;
+    }
+    .coruso{
+        display: block;
+        padding: 20px auto;
+    
+    }
+    .wrapper {
+        display:flex;
+        flex-wrap: wrap;
+        list-style: none;
+        margin: 0 auto;
+    }
+    .corusol1{
+        display: block;
+    }
+    .child{
+        width: 100% ;
+        padding: 10px;
+        margin: 10px;
+    }
+    .desciption {
+        width: 100% !important;
+    }
+    .w100{
+        width: 100% !important;
+    }
+    .fixed-bottom {
+        position: relative;
+        bottom: 0px;
+        left: 0px;
+        margin: 20px auto;
+    
+    }
+    }
+    @media(min-width:992px) {
+
+
+        .fixed-bottom {
+            position: fixed;
+            bottom: 59px;
+            left: 649px;
+        
+        }
+        }
+
+
+
+
+        @media(min-width:1200px) {
+                .contain{
+                width: 1140px;
+            } 
+                .cardf{
+                width: 22% !important;
+
+            }
+            .fixed-bottom {
+                position: fixed;
+                bottom: 59px;
+                left: 835px;
+
+            }
+            .inputSearch {
+            width: 23% !important;
+            }
+            .formSearch {
+                padding: 10px;
+                display: flex;
+                justify-content: center;
+            }
+            }
+            @media(min-width:1400px) {
+                .contain{
+                    width: 1320px;
+                } 
+
+            }
+
+
+
+
+
+
+
+
